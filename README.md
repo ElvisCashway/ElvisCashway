@@ -30,9 +30,7 @@ Os relatórios de execução dos testes podem ser encontrados no diretório repo
 
 Avisos
 Certifique-se de não incluir informações sensíveis nos casos de teste, como senhas reais ou dados de conta.
-Antes de executar os testes em ambientes de produção, verifique se você está usando ambientes de teste adequados.
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+Antes de executar os testes em ambientes de produção, verifique se você está usando ambientes de teste adequa
 
 Esperamos que este projeto seja útil para automatizar e garantir a qualidade de sistemas de Internet Banking e cooperativas de crédito. Sinta-se à vontade para contribuir, relatar problemas ou sugerir melhorias.
 
