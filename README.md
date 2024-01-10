@@ -1,4 +1,5 @@
-* Projeto de Automação de Testes para Internet Banking e Cooperativas de Crédito com Selenium IDE *
+Projeto de Automação de Testes para Internet Banking e Cooperativas de Crédito com Selenium IDE
+
 Este repositório contém um projeto de automação de testes utilizando o Selenium IDE para realizar testes automatizados em sistemas de Internet Banking e cooperativas de crédito. O Selenium IDE é uma ferramenta de automação de testes que permite a gravação e reprodução de interações com o navegador, facilitando o teste de aplicações web.
 
 Pré-requisitos
